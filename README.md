@@ -1,5 +1,5 @@
 # CoreWar
-## "The Ultimate Programming Game"
+## The Ultimate Programming Game
 
 [![Everything Is AWESOME](../assets/CoreWars.jpg)](https://www.youtube.com/watch?v=DQNzI-OGbv8 "CoreWars")
 
