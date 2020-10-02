@@ -3,7 +3,7 @@
 
 [![Everything Is AWESOME](../assets/CoreWars.jpg)](https://www.youtube.com/watch?v=DQNzI-OGbv8 "CoreWars")
 
-In a team created our own implementation of [the game](https://en.wikipedia.org/wiki/Core_War), assembler for champions (assembly-like language), and two champions
+Created our own implementation of [the game](https://en.wikipedia.org/wiki/Core_War), assembler for champions (assembly-like language), and two champions
 
 ### Teammates
 [Nsniezhk](https://github.com/Nsniezhk) | [echufistova](https://github.com/echufistova) | [annmartynenko](https://github.com/annmartynenko)
