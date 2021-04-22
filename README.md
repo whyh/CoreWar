@@ -1,7 +1,7 @@
 # CoreWar
 ## The Ultimate Programming Game
 
-[![Everything Is AWESOME](../assets/CoreWars.jpg)](https://www.youtube.com/watch?v=DQNzI-OGbv8 "CoreWars")
+[![Everything Is AWESOME](../assets/CoreWars.jpg)](https://youtu.be/tgE1uPCHWtc "CoreWars")
 
 Created our own implementation of [the game](https://en.wikipedia.org/wiki/Core_War), assembler for champions (assembly-like language), and two champions
 
